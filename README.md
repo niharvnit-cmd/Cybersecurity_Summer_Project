@@ -1,9 +1,13 @@
 Challenge 1:Hashing & The Avalanche Effect
-Approach to partA
 
+Approach to PartA:
+Basically, in the hashlib.sha256 we used SHA-256 hashing technique to hash our input string that i took from user, then using random library,  i modified the string ,then hashing it again and seeing the difference in bits of the digest,we have proved the avalanche effect.
+Each line of code has been explained in scripts in comments
 
-
-
+Approach to PartB:
+Similar approach in first part but instead of SHA-256, i have used keccak256
+In the second part , we already have the digest of empty string in keccak256, and we have to  verify it using hashing the empty string and it matches.
+Each line of code has been explained in scripts in comments
 
 
 
