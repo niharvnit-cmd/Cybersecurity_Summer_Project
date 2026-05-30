@@ -1,5 +1,5 @@
-#Challenge 1:Hashing & The Avalanche Effect
-##Approach to partA
+Challenge 1:Hashing & The Avalanche Effect
+Approach to partA
 
 
 
@@ -7,7 +7,7 @@
 
 
 
-##Answers to PartC:
+Answers to PartC:
 
 1.(a).Avalanche effect-It  is a property in ehich the algorithm works such that a small chnage in the input can make a drastic change in the output.
 
